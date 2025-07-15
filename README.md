@@ -40,10 +40,6 @@ You can also modify the HTML and Tailwind CSS files to customize the project fur
 - Design inspired by the official [Razorpay Website](https://razorpay.com/).
 - Tailwind CSS documentation was referenced for layout and styling.
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 *Feel free to star ⭐ the repository if you find it useful!*
